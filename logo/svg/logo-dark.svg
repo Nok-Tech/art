@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="NokTech" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 852.43 207.29">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #030303;
+      }
+
+      .cls-2 {
+        fill: red;
+        letter-spacing: 0em;
+      }
+
+      .cls-3 {
+        font-family: InterDisplay-Black, 'Inter Display';
+        font-size: 171.95px;
+        font-weight: 800;
+      }
+    </style>
+  </defs>
+  <text class="cls-3" transform="translate(0 148.52)"><tspan class="cls-1" x="0" y="0">NOK</tspan><tspan class="cls-2" x="380.58" y="0">TECH</tspan></text>
+</svg>
