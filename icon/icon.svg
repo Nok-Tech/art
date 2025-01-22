@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 360">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        font-family: InterDisplay-Black, 'Inter Display';
+        font-size: 217.12px;
+        font-weight: 800;
+      }
+
+      .cls-1, .cls-3 {
+        fill: red;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Camada_2" data-name="Camada 2">
+    <rect class="cls-3" width="360" height="360" rx="99.48" ry="99.48"/>
+    <rect x="6.78" y="7.13" width="346.43" height="346.43" rx="105.39" ry="105.39"/>
+  </g>
+  <g id="Icon_Imagem" data-name="Icon Imagem">
+    <text class="cls-2" transform="translate(18.33 258.6)"><tspan x="0" y="0">N</tspan></text>
+    <text class="cls-1" transform="translate(188.64 258.6)"><tspan x="0" y="0">T</tspan></text>
+  </g>
+</svg>
